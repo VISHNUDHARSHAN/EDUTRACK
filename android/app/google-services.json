@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "51951652454",
+    "firebase_url": "https://crosscheck-f5521-default-rtdb.firebaseio.com",
+    "project_id": "crosscheck-f5521",
+    "storage_bucket": "crosscheck-f5521.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:51951652454:android:730faed1b1033c800d27a7",
+        "android_client_info": {
+          "package_name": "com.example.empowereed2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyp82CflvccWCEJuutNDubjCuGlXUd5ro"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
